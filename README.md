@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Omkar Malpote</h1>
 <h3 align="center">A passionate Backend and frontend developer from India</h3>
-src="https://www.pinterest.com/pin/676947387740429140/">
+src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar050799&label=Profile%20views&color=0e75b6&style=flat" alt="omkar050799" /> </p>
 
