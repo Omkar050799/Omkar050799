@@ -1,8 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Omkar Malpote</h1>
 <h3 align="center">A passionate Backend and frontend developer from India</h3>
-<img align="right" alt="Coding" width="400"
-src=<"https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar050799&label=Profile%20views&color=0e75b6&style=flat" alt="omkar050799" /> </p>
 
@@ -12,7 +11,7 @@ src=<"https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.g
 
 - 💬 Ask me about **C,C++,Java,Python**
 
-- 📫 How to reach me **omkarmalpote913022@gmail.con**
+- 📫 How to reach me **omkarmalpote913022@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +28,3 @@ src=<"https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.g
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkar050799&show_icons=true&locale=en" alt="omkar050799" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar050799&" alt="omkar050799" /></p>
-
